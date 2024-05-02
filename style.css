@@ -334,6 +334,12 @@
     .text4 .info {
         color: hsl(234, 85%, 45%);
     }
+
+    .component .right .contentr .scores {
+        float: right;
+        text-align: right;
+        width: 100%;
+    }
     
     .component .right .contentr .cont {
         width: 100%;
